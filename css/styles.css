@@ -1,5 +1,5 @@
 body{
-  background-image: url("https://www.baltana.com/files/wallpapers-30/Abstract-Honeycomb-HD-Desktop-Wallpaper-100329.jpg");
+  background-image: url("Main-background.jpg");
 background-size: cover;
 text-align: center;}
 
@@ -104,10 +104,10 @@ font-size: 130%;
   top:50%;
 }
 .offcanvas{
-  background-image: url("https://www.baltana.com/files/wallpapers-30/Abstract-Dots-Artistic-Background-Wallpaper-099993.jpg");
+  background-image: url("Abstract-Dots-Artistic-Background-Wallpaper-099993.jpg");
 }
 .navbar-toggler{
-  background-image: url("https://www.baltana.com/files/wallpapers-30/Abstract-Dots-Artistic-Background-Wallpaper-099993.jpg")
+  background-image: url("Abstract-Dots-Artistic-Background-Wallpaper-099993.jpg")
 }
 /* media */
 
